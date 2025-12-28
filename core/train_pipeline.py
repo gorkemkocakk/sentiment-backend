@@ -50,3 +50,5 @@ def build_and_save_model():
 
     print("Done. Artifacts created under model_artifacts/")
     return report
+if __name__ == "__main__":
+    build_and_save_model()
