@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Model artifacts (CI üretip artifact olarak saklayacak)
+model_artifacts/
+
+# Editor / OS
+.vscode/
+.DS_Store
