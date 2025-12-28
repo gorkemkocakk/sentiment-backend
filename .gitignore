@@ -11,3 +11,5 @@ model_artifacts/
 # Editor / OS
 .vscode/
 .DS_Store
+data/IMDB Dataset.csv
+data/*.csv
